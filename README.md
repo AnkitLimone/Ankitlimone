@@ -14,6 +14,10 @@ justify-content: center; align-items: center;">
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./linkedin.png" width="30px" height="30px"/>
     </a>
+    <a href="https://www.instagram.com/ak_demonimmortal/" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./instagram.png" width="30px" height="30px"/>
+    </a>
     <a href="https://api.whatsapp.com/send?phone=+917354193408" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./whatsapp.png" width="30px" height="30px"/>
