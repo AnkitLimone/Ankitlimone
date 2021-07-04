@@ -10,7 +10,7 @@ justify-content: center; align-items: center;">
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./google.png" width="30px" height="30px"/>
     </a>
-    <a href="https://www.linkedin.com/in/ankit-limone-381206180?originalSubdomain=in" target="_blank"
+    <a href="https://www.linkedin.com/in/ankit-limone-381206180?originalSubdomain=in" target="blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./linkedin.png" width="30px" height="30px"/>
     </a>
