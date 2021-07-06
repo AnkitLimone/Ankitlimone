@@ -23,4 +23,8 @@ justify-content: center; align-items: center;">
         <img  src="./whatsapp.png" width="30px" height="30px"/>
     </a>
 <p]>
-<br />
+<br/>
+    <p>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitLimone&theme=jolly&count_private=true&show_icons=true"
+    alt="AnkitLimone"/>
+    </p>
