@@ -6,7 +6,7 @@ justify-content: center; align-items: center;">
     margin: 5px; text-decoration:none;">
         <img  src="./github-sign.png" width="30px" height="30px" />
     </a> -->
-    <a href="gmailto:Ankitlimone16@gmail.com" target="_blank"
+    <a href="mailto:ankitlimone16@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./google.png" width="30px" height="30px"/>
     </a>
