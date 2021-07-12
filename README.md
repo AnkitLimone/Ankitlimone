@@ -4,7 +4,7 @@ justify-content: center; align-items: center;">
     <a href="https://github.com/AnkitLimone" target="_blank" style="font-size: 40px;
     display: flex;background-color: white; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;
     margin: 5px; text-decoration:none;">
-        <img  src="./github-sign.png" width="30px" height="30px" />
+        <img  src="./github-sign.png" width="90px" height="90px" />
     </a> 
     <a href="mailto:ankitlimone16@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 60px; height: 60px; border-radius: 5px;text-decoration:none;margin: 5px;">
