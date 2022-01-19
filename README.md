@@ -37,7 +37,7 @@ justify-content: center; align-items: center;">
     
     
     
-    <a href="https://github.com/jstrieb/github-stats">
+    <a href="https://github.com/Ankitlimone/github-stats">
 
 ![](https://github.com/Ankitlimone/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Ankitlimone/github-stats/blob/master/generated/languages.svg)
