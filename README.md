@@ -34,5 +34,5 @@ justify-content: center; align-items: center;">
     alt="AnkitLimone"/>
     </p>
     
-    <p>
-        ![](./profile-3d-contrib/profile-green-animate.svg)</p>
+    
+        ![](./profile-3d-contrib/profile-green-animate.svg)
