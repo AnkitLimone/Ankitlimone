@@ -35,4 +35,7 @@ justify-content: center; align-items: center;">
     </p>
     
     
-        ![](./profile-3d-contrib/profile-green-animate.svg)
+    
+    
+   
+![](./profile-3d-contrib/profile-green-animate.svg)
