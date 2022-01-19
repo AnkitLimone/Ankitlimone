@@ -30,11 +30,9 @@ justify-content: center; align-items: center;">
 <p>
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitLimone&theme=radical&count_private=true&show_icons=true"
     alt="AnkitLimone"/>
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=AnkitLimone&layout=compact&hide=html&theme=jolly&count_private=true&show_icons=true"
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=AnkitLimone&layout=compact&hide=html&theme=radical&count_private=true&show_icons=true"
     alt="AnkitLimone"/>
     </p>
     
     
     
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitlimone&theme=radical" />
