@@ -41,6 +41,6 @@ justify-content: center; align-items: center;">
 ![](./profile-3d-contrib/profile-green-animate.svg)
     
     
-    <p align="center" dir="auto">
+<p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>
